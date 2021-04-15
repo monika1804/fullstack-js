@@ -1,0 +1,32 @@
+h2{
+  color:#AA4139;
+  cursor: pointer;
+  text-align: center;
+  /* border: 5px solid rgb(254, 137, 131, 0.5); */
+}
+p{
+  color:green;
+  line-height: 60px;
+  font-style: italic;
+  font-size: 150%;
+  text-align: center;
+  border: 5px solid rgb(254, 137, 131, 0.5);
+}
+body{
+  background-image: url(bg.jpg);
+  background-size: cover;
+}
+li{
+  list-style: none;
+  display: inline-block;
+}
+footer{
+  clear: both;
+  text-align: center;
+}
+.boxmodal{
+ border: 5px solid red;
+ display: inline-block;
+ padding: 5px 20px 5px 20px;
+ margin:0px 20px 0px 20px;
+}
